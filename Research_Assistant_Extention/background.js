@@ -1,0 +1,1 @@
+chrome.sidePanel.setPanelBehaviour({openPanelOnActionClick:true})
